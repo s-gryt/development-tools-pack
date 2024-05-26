@@ -43,7 +43,7 @@
   "scripts": {
     "commit": "git cz",
     "markdownlint": "markdownlint **/*.md",
-    "prepare": "husky install",
+    "prepare": "husky",
     "prettier:fix": "prettier --write .",
     "prettier": "prettier --check ."
   },
