@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/s-gryt/development-tools-pack/compare/v1.0.0...v1.0.1) (2024-05-26)
+
+
+### Bug Fixes
+
+* **extension name:** fix extension name, as dev-tools-pack is taken ([8698113](https://github.com/s-gryt/development-tools-pack/commit/86981138ed3a9daf1cb31dd75854bb80a022ca3f))
+
 # 1.0.0 (2024-05-26)
 
 ### Bug Fixes
