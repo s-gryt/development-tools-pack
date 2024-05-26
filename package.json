@@ -1,19 +1,19 @@
 {
   "version": "1.0.0",
-  "name": "dev-tools-pack",
+  "name": "development-tools-pack",
   "author": "Sergii Grytsaienko",
-  "description": "Key dev tools for optimized for productivity",
-  "displayName": "Dev Tools Pack",
+  "description": "Key development tools for optimized for productivity",
+  "displayName": "Development Tools Pack",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "sgryt",
-  "homepage": "https://marketplace.visualstudio.com/items?itemName=sgryt.dev-tools-pack",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=sgryt.development-tools-pack",
   "repository": {
     "type": "git",
-    "url": "https://github.com/s-gryt/dev-tools-pack.git"
+    "url": "https://github.com/s-gryt/development-tools-pack.git"
   },
   "bugs": {
-    "url": "https://github.com/s-gryt/dev-tools-pack/issues"
+    "url": "https://github.com/s-gryt/development-tools-pack/issues"
   },
   "galleryBanner": {
     "color": "#008B8B",

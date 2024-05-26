@@ -1,6 +1,6 @@
-# Dev Tools Pack
+# Development Tools Pack
 
-Welcome to the Dev Tools Pack for Visual Studio Code! This pack offers a comprehensive set of tools designed to optimize your development workflow and increase productivity.
+Welcome to the Development Tools Pack for Visual Studio Code! This pack offers a comprehensive set of tools designed to optimize your development workflow and increase productivity.
 
 ## Included Extensions
 
@@ -55,15 +55,15 @@ Highlight TODO comments within your code for better visibility and tracking.
 
 1. Launch Visual Studio Code.
 2. Navigate to the Extensions view.
-3. Search for "Dev Tools Pack" and click Install.
+3. Search for "Development Tools Pack" and click Install.
 4. Reload Visual Studio Code to activate the extension.
 
 ## Feedback and Contributions
 
-Feel free to share your suggestions, feedback, and contributions on [GitHub](https://github.com/s-gryt/dev-tools-pack/issues).
+Feel free to share your suggestions, feedback, and contributions on [GitHub](https://github.com/s-gryt/development-tools-pack/issues).
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/s-gryt/dev-tools-pack/blob/main/LICENSE)
-![GitHub Workflow Status](https://github.com/s-gryt/dev-tools-pack/actions/workflows/release.yml/badge.svg)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/sgryt.dev-tools-pack.svg)](https://marketplace.visualstudio.com/items?itemName=sgryt.dev-tools-pack)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/s-gryt/development-tools-pack/blob/main/LICENSE)
+![GitHub Workflow Status](https://github.com/s-gryt/development-tools-pack/actions/workflows/release.yml/badge.svg)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/sgryt.development-tools-pack.svg)](https://marketplace.visualstudio.com/items?itemName=sgryt.development-tools-pack)
 ![Commitizen Friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)
 [![Semantic Release](https://img.shields.io/badge/release-semantic-blue.svg)](https://github.com/semantic-release/semantic-release)
