@@ -1,0 +1,88 @@
+{
+  "version": "0.0.0",
+  "name": "dev-tools-pack",
+  "author": "Sergii Grytsaienko",
+  "description": "Key dev tools for optimized for productivity",
+  "displayName": "Dev Tools Pack",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "sgryt",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=sgryt.dev-tools-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-gryt/dev-tools-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/s-gryt/dev-tools-pack/issues"
+  },
+  "galleryBanner": {
+    "color": "#008B8B",
+    "theme": "dark"
+  },
+  "keywords": [
+    "bookmarks",
+    "comments",
+    "editorconfig",
+    "environment variables",
+    "extension pack",
+    "git",
+    "github actions",
+    "gitlens",
+    "highlight",
+    "IDE",
+    "json",
+    "log file",
+    "markdown",
+    "PDF preview",
+    "sorting",
+    "theme",
+    "todo",
+    "visual studio code",
+    "vscode"
+  ],
+  "scripts": {
+    "commit": "git cz",
+    "markdownlint": "markdownlint **/*.md",
+    "prepare": "husky install",
+    "prettier:fix": "prettier --write .",
+    "prettier": "prettier --check ."
+  },
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "analytic-signal.preview-pdf",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "emilast.logfilehighlighter",
+    "github.vscode-github-actions",
+    "gruntfuggly.todo-tree",
+    "irongeek.vscode-env",
+    "richie5um2.vscode-sort-json",
+    "shd101wyy.markdown-preview-enhanced",
+    "trinm1709.dracula-theme-from-intellij",
+    "tyriar.sort-lines",
+    "wayou.vscode-todo-highlight"
+  ],
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "markdownlint": "^0.34.0",
+    "markdownlint-cli": "^0.40.0",
+    "prettier": "^3.2.5",
+    "semantic-release": "^23.0.8",
+    "semantic-release-vsce": "^5.7.1"
+  }
+}
