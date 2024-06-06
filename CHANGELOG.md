@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/s-gryt/development-tools-pack/compare/v1.0.2...v1.1.0) (2024-06-06)
+
+
+### Features
+
+* **theme:** replace intellij theme extension ([a9fde60](https://github.com/s-gryt/development-tools-pack/commit/a9fde60a3351c0d7edd5e27132217e0bb76bfc9a))
+
 ## [1.0.2](https://github.com/s-gryt/development-tools-pack/compare/v1.0.1...v1.0.2) (2024-05-26)
 
 
