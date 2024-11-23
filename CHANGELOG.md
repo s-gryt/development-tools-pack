@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/s-gryt/development-tools-pack/compare/v1.1.0...v1.2.0) (2024-11-23)
+
+
+### Features
+
+* **plugins:** add new plugins ([9a9f6a9](https://github.com/s-gryt/development-tools-pack/commit/9a9f6a9563bf543e5696a5fd39a3a691671dc160))
+
 # [1.1.0](https://github.com/s-gryt/development-tools-pack/compare/v1.0.2...v1.1.0) (2024-06-06)
 
 
