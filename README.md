@@ -64,6 +64,14 @@ Organize your code with ease by sorting lines alphabetically or numerically.
 
 Highlight TODO comments within your code for better visibility and tracking.
 
+### [Error Gutters](https://marketplace.visualstudio.com/items?itemName=igorsbitnev.error-gutters)
+
+Quickly identify and navigate to errors in your code with gutter indicators.
+
+### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+
+Improve code quality by identifying and correcting spelling mistakes in your codebase.
+
 ## Installation
 
 1. Launch Visual Studio Code.
